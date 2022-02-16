@@ -14,7 +14,7 @@ serde_yaml = "0.8.17"
 solana-cli-template-program-bpf = {path = "program"}
 sol-template-shared = {path = "shared"}
 solana-clap-utils = "1.9.5"
-solana-cli-config = "1.9.5"
+solana-cli-config = "1.9.6"
 solana-client = "1.9.5"
 solana-logger = "1.9.5"
 solana-remote-wallet = "1.9.5"
