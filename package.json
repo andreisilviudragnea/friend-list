@@ -56,7 +56,7 @@
     "npm-check-updates": "^12.0.3",
     "sync-request": "^6.1.0",
     "ts-results": "^3.3.0",
-    "update": "^0.4.2",
+    "update": "^0.7.0",
     "yargs": "^17.3.0"
   }
 }
