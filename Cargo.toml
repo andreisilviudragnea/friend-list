@@ -13,7 +13,7 @@ serde = { version = "1.0.136", features = ["derive"] }
 serde_yaml = "0.8.23"
 solana-cli-template-program-bpf = {path = "program"}
 sol-template-shared = {path = "shared"}
-solana-clap-utils = "1.9.7"
+solana-clap-utils = "1.9.8"
 solana-cli-config = "1.9.7"
 solana-client = "1.9.7"
 solana-logger = "1.9.7"
