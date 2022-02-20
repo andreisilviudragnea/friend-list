@@ -17,7 +17,7 @@ solana-clap-utils = "1.9.8"
 solana-cli-config = "1.9.8"
 solana-client = "1.9.8"
 solana-logger = "1.9.8"
-solana-remote-wallet = "1.9.7"
+solana-remote-wallet = "1.9.8"
 solana-sdk = "1.9.7"
 tokio = { version = "1", features = ["full"] }
 
