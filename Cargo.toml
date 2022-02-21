@@ -28,5 +28,5 @@ members = [
 ]
 [dev-dependencies]
 lazy_static = "1.4.0"
-solana-validator = "1.9.7"
+solana-validator = "1.9.8"
 solana-streamer = "1.9.8"
