@@ -15,7 +15,7 @@ solana-cli-template-program-bpf = {path = "program"}
 sol-template-shared = {path = "shared"}
 solana-clap-utils = "1.9.8"
 solana-cli-config = "1.9.8"
-solana-client = "1.9.8"
+solana-client = "1.9.9"
 solana-logger = "1.9.8"
 solana-remote-wallet = "1.9.8"
 solana-sdk = "1.9.8"
