@@ -65,8 +65,7 @@ fn validate_user_accounts_and_load<'a>(
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let app_matches = parse_command_line();
-    let (sub_command, sub_matches) = app_matches.subcommand();
-    let matches = sub_matches.unwrap();
+    let (sub_command, matches) = app_matches.subcommand().unwrap();
     let mut wallet_manager: Option<Arc<RemoteWalletManager>> = None;
 
     let config = {

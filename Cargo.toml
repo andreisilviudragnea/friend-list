@@ -7,7 +7,7 @@ publish = false
 
 [dependencies]
 borsh = "0.9.3"
-clap = "3.1.6"
+clap = { version = "3.1.6", features = ["cargo"] }
 lazy_static = "1.4.0"
 serde = { version = "1.0.136", features = ["derive"] }
 serde_yaml = "0.8.23"
