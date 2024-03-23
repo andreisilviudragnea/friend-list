@@ -17,7 +17,7 @@ num_enum = "0.5.6"
 num-integer = "0.1.44"
 num-traits = "0.2"
 sol-template-shared = {path = "../shared"}
-solana-program = "1.9.9"
+solana-program = "1.18.8"
 thiserror = "1.0"
 
 [dev-dependencies]
